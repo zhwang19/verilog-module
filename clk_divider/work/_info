@@ -4,59 +4,59 @@ K3
 cModel Technology
 Z0 dC:\Users\A\Documents\SublimeText\LFSR
 veven_divider
-Z1 ILfgBd8>co0MdJUC4@JnM@3
+Z1 IgGAD^cJJ5@kFWNHKX3g8m0
 Z2 VQ@NfFlXkl92P<Ykk6j68d0
-Z3 dC:\Users\A\Documents\SublimeText\divider
-Z4 w1586941948
-Z5 8C:/Users/A/Documents/SublimeText/divider/even_divider.v
-Z6 FC:/Users/A/Documents/SublimeText/divider/even_divider.v
+Z3 dC:\Users\A\Documents\SublimeText\verilog\clk_divider
+Z4 w1586964733
+Z5 8C:/Users/A/Documents/SublimeText/verilog/clk_divider/even_divider.v
+Z6 FC:/Users/A/Documents/SublimeText/verilog/clk_divider/even_divider.v
 L0 4
 Z7 OV;L;10.1d;51
 r1
 31
-Z8 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/divider/even_divider.v|
-Z9 o-work work -O0
-Z10 !s100 Y<^mc`1V7k_H^M>G;E6TA1
-Z11 !s108 1586942036.689000
-Z12 !s107 C:/Users/A/Documents/SublimeText/divider/even_divider.v|
+Z8 o-work work -O0
+Z9 !s100 BG?UPH7KSXUJhb^DO<ECf2
+Z10 !s108 1587007723.306000
+Z11 !s107 C:/Users/A/Documents/SublimeText/verilog/clk_divider/even_divider.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/clk_divider/even_divider.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vodd_divider
-Z13 !s100 9R?3cc<JUON2jQeFa@J=B2
-Z14 Idceba4]eA]i`KeVM4J2Lj3
-Z15 VIXni0[h6A<ae3`HHX>_Nn0
+Z13 Ih^Jm]]NS^2kj2]2gg:Xbh1
+Z14 VIXni0[h6A<ae3`HHX>_Nn0
 R3
-Z16 w1586940169
-Z17 8C:/Users/A/Documents/SublimeText/divider/odd_divider.v
-Z18 FC:/Users/A/Documents/SublimeText/divider/odd_divider.v
+R4
+Z15 8C:/Users/A/Documents/SublimeText/verilog/clk_divider/odd_divider.v
+Z16 FC:/Users/A/Documents/SublimeText/verilog/clk_divider/odd_divider.v
 L0 4
 R7
 r1
 31
-Z19 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/divider/odd_divider.v|
-R9
+R8
 !i10b 1
+Z17 !s100 GGN]5^]iliG56FT^=ZEQh1
 !s85 0
-Z20 !s108 1586942036.783000
-Z21 !s107 C:/Users/A/Documents/SublimeText/divider/odd_divider.v|
+Z18 !s108 1587007723.408000
+Z19 !s107 C:/Users/A/Documents/SublimeText/verilog/clk_divider/odd_divider.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/clk_divider/odd_divider.v|
 !s101 -O0
 vtb_divider
 !i10b 1
-Z22 !s100 TlnELYA3?2@Ng?4b<KRU]2
-Z23 IMMl3In=7g8<jAimcTEC3]0
-Z24 V=2:IaMhR5zMV0LRV`0`2G2
+!s100 oEB]BhTSO^86zbYIl5[:F3
+Ij`WGZm`iEU2lVzTAOX5LF3
+Z21 V=2:IaMhR5zMV0LRV`0`2G2
 R3
-Z25 w1586937803
-Z26 8C:/Users/A/Documents/SublimeText/divider/tb_divider.v
-Z27 FC:/Users/A/Documents/SublimeText/divider/tb_divider.v
+R4
+8C:/Users/A/Documents/SublimeText/verilog/clk_divider/tb_divider.v
+FC:/Users/A/Documents/SublimeText/verilog/clk_divider/tb_divider.v
 L0 4
 R7
 r1
 !s85 0
 31
-!s108 1586942036.945000
-!s107 C:/Users/A/Documents/SublimeText/divider/tb_divider.v|
-Z28 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/divider/tb_divider.v|
+!s108 1587007723.532000
+!s107 C:/Users/A/Documents/SublimeText/verilog/clk_divider/tb_divider.v|
+!s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/clk_divider/tb_divider.v|
 !s101 -O0
-R9
+R8
