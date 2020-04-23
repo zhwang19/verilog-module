@@ -1,0 +1,15 @@
+C:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_syn_shaping
+
+Top level modules:
+	tb_syn_shaping
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module syn_shaping
+
+Top level modules:
+	syn_shaping
+
+} {} {}}

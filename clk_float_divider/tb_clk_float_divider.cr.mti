@@ -1,0 +1,15 @@
+C:/Users/A/Documents/SublimeText/verilog/clk_float_divider/tb_clk_float_divider.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/clk_float_divider/tb_clk_float_divider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_clk_float_divider
+
+Top level modules:
+	tb_clk_float_divider
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/clk_float_divider/clk_float_diveder.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/clk_float_divider/clk_float_diveder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clk_float_divider
+
+Top level modules:
+	clk_float_divider
+
+} {} {}}

@@ -1,0 +1,15 @@
+C:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sequence_mul
+
+Top level modules:
+	sequence_mul
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_sequence_mul
+
+Top level modules:
+	tb_sequence_mul
+
+} {} {}}

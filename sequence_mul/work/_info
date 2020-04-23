@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\syn_shaping
+vsequence_mul
+Z1 !s100 IdDb4KXQBZbTmHgQ<XR0b2
+Z2 IVKlClVHO0G3=C:QICGJ_=2
+Z3 VZ@H0FAOQ`JY6XGV0IjOBi2
+Z4 dC:\Users\A\Documents\SublimeText\verilog\sequence_mul
+Z5 w1587196751
+Z6 8C:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v
+Z7 FC:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v
+L0 4
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1587197114.873000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/sequence_mul/sequence_mul.v|
+!s101 -O0
+vtb_sequence_mul
+!i10b 1
+Z13 !s100 L4U7Ki0B^a6zazUd2ZZl61
+Z14 IZa[3aP5@:l?1dz:iLjd5g0
+Z15 VSPYkXBY0YEJeDB?6ZDYWC3
+R4
+Z16 w1587178057
+Z17 8C:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v
+Z18 FC:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1587197114.984000
+!s107 C:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v|
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/sequence_mul/tb_sequence_mul.v|
+!s101 -O0
+R10

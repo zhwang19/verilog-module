@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\pipeline_mul
+vavoid_fluttering
+Z1 !s100 5TcW`d071_9jg<]z1K@>a0
+Z2 IA;PelIA_Z]Q`^mOT`kjK^2
+Z3 V`kUK1dz`egDQmc7nO[CI]0
+Z4 dC:\Users\A\Documents\SublimeText\verilog\avoid_fluttering
+Z5 w1587549567
+Z6 8C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/avoid_fluttering.v
+Z7 FC:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/avoid_fluttering.v
+L0 4
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/avoid_fluttering.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1587552230.005000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/avoid_fluttering.v|
+!s101 -O0
+vtb_avoid_fluttering
+!i10b 1
+!s100 ]>]RE`V>;FP=AzBIS7z;61
+I7@>35z[O]3C9oK>M5`@oh1
+Z13 VQPz3PMBF[1DNaz6HHf?P52
+R4
+w1587552221
+Z14 8C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/tb_avoid_fluttering.v
+Z15 FC:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/tb_avoid_fluttering.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1587552230.099000
+!s107 C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/tb_avoid_fluttering.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/avoid_fluttering/tb_avoid_fluttering.v|
+!s101 -O0
+R10

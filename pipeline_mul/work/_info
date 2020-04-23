@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\sequence_mul
+vpipeline_mul
+Z1 IXM:;3hEMZ2?PbzNe8_CT=1
+Z2 V6gTMGJMAD3CEZb@@n9@e02
+Z3 dC:\Users\A\Documents\SublimeText\verilog\pipeline_mul
+Z4 w1587197874
+Z5 8C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/pipiline_mul.v
+Z6 FC:/Users/A/Documents/SublimeText/verilog/pipeline_mul/pipiline_mul.v
+L0 6
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/pipiline_mul.v|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 hnXBJiM[7P7KL[Eo=b`7:0
+!s85 0
+Z11 !s108 1587197966.308000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/pipiline_mul.v|
+!s101 -O0
+vtb_pipeline_mul
+!i10b 1
+!s100 Xi[PAO?XYj`@gjVTQ3f<K2
+I7l3FJTo^gjeCDz=i<=n4]0
+Z13 VkUSEo`dFRS^zGWj`2;m^I1
+R3
+w1587197955
+Z14 8C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/tb_pipeline_mul.v
+Z15 FC:/Users/A/Documents/SublimeText/verilog/pipeline_mul/tb_pipeline_mul.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1587197966.402000
+!s107 C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/tb_pipeline_mul.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/pipeline_mul/tb_pipeline_mul.v|
+!s101 -O0
+R9

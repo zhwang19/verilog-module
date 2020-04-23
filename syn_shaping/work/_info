@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\clk_float_divider
+vsyn_shaping
+Z1 ILhGEL<6X`o>Lf8oa1T`oz0
+Z2 VKKCi60LO]3?z<n`@:WK8H3
+Z3 dC:\Users\A\Documents\SublimeText\verilog\syn_shaping
+Z4 w1587116902
+Z5 8C:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v
+Z6 FC:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v
+L0 4
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 0eaT5F9?KkmBRbKfSP_XX3
+!s85 0
+Z10 !s108 1587118503.175000
+Z11 !s107 C:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/syn_shaping/syn_shaping.v|
+!s101 -O0
+vtb_syn_shaping
+!i10b 1
+!s100 PVId1Miezo[2]T;O62kKj2
+IoSOC0;Ib3J^7QgF@M0Me_2
+V];<6m>=<5dlYCC9Ali[a?3
+R3
+w1587117469
+8C:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v
+FC:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1587118503.273000
+!s107 C:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v|
+!s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/syn_shaping/tb_syn_shaping.v|
+!s101 -O0
+R8
