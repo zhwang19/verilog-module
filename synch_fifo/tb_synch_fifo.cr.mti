@@ -1,0 +1,22 @@
+C:/Users/A/Documents/SublimeText/verilog/synch_fifo/sram.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/synch_fifo/sram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sram
+
+Top level modules:
+	sram
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/synch_fifo/tb_sych_fifo.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/synch_fifo/tb_sych_fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_synch_fifo
+
+Top level modules:
+	tb_synch_fifo
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/synch_fifo/synch_fifo.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/synch_fifo/synch_fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module synch_fifo
+
+Top level modules:
+	synch_fifo
+
+} {} {}}

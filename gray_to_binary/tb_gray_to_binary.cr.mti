@@ -1,0 +1,8 @@
+C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module gray_to_binary
+
+Top level modules:
+	gray_to_binary
+
+} {} {}}

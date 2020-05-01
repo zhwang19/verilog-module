@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\avoid_fluttering
+vtb_uart_top
+Z1 ICJQe`KCNWK2la5H08:eEg0
+Z2 VWUVXZnAZ4fz<mDE6H_OTE2
+Z3 dC:\Users\A\Documents\SublimeText\verilog\uart
+Z4 w1587698404
+Z5 8C:/Users/A/Documents/SublimeText/verilog/uart/tb_uart_top.v
+Z6 FC:/Users/A/Documents/SublimeText/verilog/uart/tb_uart_top.v
+L0 4
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/uart/tb_uart_top.v|
+Z9 o-work work -O0
+Z10 !s100 :jTU`ZHHeJK78J3z@:z3i0
+Z11 !s108 1587698415.525000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/uart/tb_uart_top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_rx
+Z13 !s100 EoG4<D03CckmzcbZ]U=0Z2
+Z14 I3ClKKV1Ye2VW7HPg^SSSo3
+Z15 VenMAN7mDl1EYddzXi4[>60
+R3
+Z16 w1587696756
+Z17 8C:/Users/A/Documents/SublimeText/verilog/uart/uart_rx.v
+Z18 FC:/Users/A/Documents/SublimeText/verilog/uart/uart_rx.v
+L0 5
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/uart/uart_rx.v|
+R9
+Z20 !s108 1587698415.619000
+Z21 !s107 C:/Users/A/Documents/SublimeText/verilog/uart/uart_rx.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_top
+Z22 !s100 DmE7CL?<J8M<Fl>^5nl1e0
+Z23 IDX0??bTg^VAUW;P8ZP`Lg2
+Z24 V;EF5CI7E24DiQU]8@iAK00
+R3
+Z25 w1587696890
+Z26 8C:/Users/A/Documents/SublimeText/verilog/uart/uart_top.v
+Z27 FC:/Users/A/Documents/SublimeText/verilog/uart/uart_top.v
+L0 4
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/uart/uart_top.v|
+R9
+!i10b 1
+!s85 0
+Z29 !s108 1587698416.156000
+Z30 !s107 C:/Users/A/Documents/SublimeText/verilog/uart/uart_top.v|
+!s101 -O0
+vuart_tx
+!i10b 1
+Z31 !s100 :f@PUbQZ@F^O<>b6FndI=3
+Z32 I5>4zkF:YIlSaO`<4>RVG=0
+Z33 V0_aP2^=T2T_eO1=5?1X`N1
+R3
+Z34 w1587696728
+Z35 8C:/Users/A/Documents/SublimeText/verilog/uart/uart_tx.v
+Z36 FC:/Users/A/Documents/SublimeText/verilog/uart/uart_tx.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1587698416.281000
+!s107 C:/Users/A/Documents/SublimeText/verilog/uart/uart_tx.v|
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/uart/uart_tx.v|
+!s101 -O0
+R9

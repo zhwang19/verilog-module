@@ -1,0 +1,15 @@
+C:/Users/A/Documents/SublimeText/verilog/binary_to_gray/tb_bianry_to_gray.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/binary_to_gray/tb_bianry_to_gray.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_tb_binary_to_gray
+
+Top level modules:
+	tb_tb_binary_to_gray
+
+} {} {}} C:/Users/A/Documents/SublimeText/verilog/binary_to_gray/binary_to_gray.v {1 {vlog -work work C:/Users/A/Documents/SublimeText/verilog/binary_to_gray/binary_to_gray.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module binary_to_gray
+
+Top level modules:
+	binary_to_gray
+
+} {} {}}

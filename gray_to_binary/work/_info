@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\binary_to_gray
+vgray_to_binary
+Z1 !s100 zJEReh;HQ:Y]]YecCL5Fi3
+Z2 IKN4Ybkf3^5J=1ilImNdIW0
+Z3 VWd0i2Q:SCi?LfD^bAo;Tm1
+Z4 dC:\Users\A\Documents\SublimeText\verilog\gray_to_binary
+Z5 w1588303542
+Z6 8C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v
+Z7 FC:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v
+L0 4
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1588303655.246000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/gray_to_binary.v|
+!s101 -O0
+vtb_gray_to_binary
+!i10b 1
+!s100 @_@nimm7VhG6zC=V0LZf]0
+IT]MX6>XakE:?VPUd6mlo43
+Z13 V^GfWkNJU<;Gll[he:]G:M1
+R4
+w1588303649
+Z14 8C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/tb_gray_to_binary.v
+Z15 FC:/Users/A/Documents/SublimeText/verilog/gray_to_binary/tb_gray_to_binary.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1588303655.324000
+!s107 C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/tb_gray_to_binary.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/gray_to_binary/tb_gray_to_binary.v|
+!s101 -O0
+R10

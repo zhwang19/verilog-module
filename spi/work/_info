@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\A\Documents\SublimeText\verilog\uart
+vspi_module
+Z1 !s100 [c[K_JR[gYiSXIDB4D6GM2
+Z2 IC]NhDc<?OQH50_63A>BAV1
+Z3 VRM3:HVEJJPgcPUM>CM1J;2
+Z4 dC:\Users\A\Documents\SublimeText\verilog\spi
+Z5 w1587798293
+Z6 8C:/Users/A/Documents/SublimeText/verilog/spi/spi_module.v
+Z7 FC:/Users/A/Documents/SublimeText/verilog/spi/spi_module.v
+L0 4
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/spi/spi_module.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1587798579.345000
+Z12 !s107 C:/Users/A/Documents/SublimeText/verilog/spi/spi_module.v|
+!s101 -O0
+vtb_spi_module
+!i10b 1
+!s100 moP;>>l[HaiTk=D7VW8Oa3
+I13=9Bc?IEJ^o1Z5F6RWXY0
+Z13 VgFV]IbF]WnL>`9Y4eF;KF0
+R4
+w1587798573
+Z14 8C:/Users/A/Documents/SublimeText/verilog/spi/tb_spi_module.v
+Z15 FC:/Users/A/Documents/SublimeText/verilog/spi/tb_spi_module.v
+L0 4
+R8
+r1
+!s85 0
+31
+!s108 1587798579.460000
+!s107 C:/Users/A/Documents/SublimeText/verilog/spi/tb_spi_module.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/A/Documents/SublimeText/verilog/spi/tb_spi_module.v|
+!s101 -O0
+R10
